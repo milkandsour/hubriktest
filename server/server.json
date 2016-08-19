@@ -1,0 +1,7 @@
+{"apps": [{
+	"name"              : "server",
+	"script"            : "src/index.js",
+	"error_file"        : "server/logs/err.log",
+	"out_file"          : "server/logs/out.log",
+	"merge_logs"        : true
+}]}
