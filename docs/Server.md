@@ -13,7 +13,7 @@ Source files modification requires a server restart, and this command will do th
 grunt server:stop
 ```
 
-Start the nodejs server on http://localhost:3000
+Stop the nodejs server on http://localhost:3000
 
 #### colorful log
 The server writes the log in text files in the folder server/logs with a miserable black and white fashion.
@@ -28,3 +28,5 @@ or
 ```
 npm start
 ```
+
+but you will be responsible to stop it at the end

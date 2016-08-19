@@ -14,12 +14,12 @@ or
 npm test
 ```
 
-Run all the unitest in fantastic nyancat fashion with mocha
+Run all the unitest in a fantastic nyancat fashion with mocha
 
 #### Manual testing
 
-The "application" I wrote the application exposes restful api, 
-in the sample folder you will find few useful example. 
+The "application" I wrote exposes restful api.
+In the sample folder you will find few useful example. 
 
 ```
 curl -X GET --header "Content-Type: application/json" http://localhost:3000/commands
