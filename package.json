@@ -1,0 +1,31 @@
+{
+  "name": "hubricktest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "grunt unit"
+  },
+  "keywords": [
+    "hubrick",
+    "test"
+  ],
+  "author": "andrea colaci",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "chai-spies": "^0.7.1",
+    "colors": "^1.1.2",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-continue": "^0.1.0",
+    "grunt-exec": "^1.0.0",
+    "grunt-mocha-test": "^0.12.7",
+    "load-grunt-config": "^0.19.2",
+    "mocha": "^3.0.2",
+    "phantomjs": "^2.1.7",
+    "pm2": "^1.1.3"
+  }
+}
