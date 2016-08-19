@@ -1,12 +1,12 @@
 # Model
 
 The application has commands and workflows, and a restful interface.
-The restful interface has the following endpoint:
+The restful interface has the following endpoints:
 
 - /commands
 - /worklows
 
-If you want to play and understand all the endpoint, just jump to the section [Manual test/Unit test](docs/Test.md).
+If you want to play and understand all the endpoints, just jump to the section [Manual test/Unit test](Test.md).
 The manual testing it is all about curl http request
 
 Command are stored and can be reused, workflow are just executed and only the execution stack it is stored.
