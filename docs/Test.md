@@ -3,9 +3,17 @@
 Unitest and Manual testing
 
 #### Unitest
+
 ```
 grunt unit
 ```
+
+or
+
+```
+npm test
+```
+
 Run all the unitest in fantastic nyancat fashion with mocha
 
 #### Manual testing
